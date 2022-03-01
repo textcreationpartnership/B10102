@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for compiling and publishing a book to be intituled Pietas anglicana: or, An historical account of all the works of piety, charity, and other acts of beneficence, done in England since the Reformation, with respect to religion, learning, and provision for all sorts of poor; collected from histories, records, wills, monuments, and other authentic evidence.</title>
+            <author>Stubs, Philip, 1665-1738.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10102</idno>
+            <idno type="OCLC"> 80924213</idno>
+            <idno type="STC">Wing S6081A</idno>
+            <idno type="STC">ESTC R184753</idno>
+            <idno type="EEBO-CITATION">80924213</idno>
+            <idno type="OCLC">ocm 80924213</idno>
+            <idno type="VID">192055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192055)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2899:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for compiling and publishing a book to be intituled Pietas anglicana: or, An historical account of all the works of piety, charity, and other acts of beneficence, done in England since the Reformation, with respect to religion, learning, and provision for all sorts of poor; collected from histories, records, wills, monuments, and other authentic evidence.</title>
+                  <author>Stubs, Philip, 1665-1738.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author from text.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stubs, Philip, 1665-1738. --  Pietas anglicana.</term>
+               <term>Publishers and publishing --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192055:1" rendition="simple:additions"/>
+            <head>PROPOSALS For Compiling and Publiſhing a Book to be Intituled, <hi>
+                  <hi>Pietas Anglicana:</hi> Or, An Hiſtorical Account of all the Works of</hi> Piety, Charity, <hi>and other</hi> Acts of Beneficence, <hi>done in</hi> England <hi>ſince the</hi> Reformation, <hi>with reſpect to Religion, Learning, and Proviſion for all ſorts of Poor; Collected from</hi> Hiſtories, Re<g ref="char:EOLhyphen"/>cords, Wills, Monuments, <hi>and other</hi> Authentic <hi>Evidence.</hi>
+            </head>
+            <p>
+               <hi>WHereas</hi> the Enemies of our Reformation have invidiouſly ſuggeſted the want of <hi>Charity</hi> in <hi>Proteſtants,</hi> and have frequently made great Oſtentation of the Pious and Charitable Deeds perform'd by Mem<g ref="char:EOLhyphen"/>bers of the <hi>Roman</hi> Church, as if <hi>Good Works</hi> were a diſtinguiſhing Note of their Communion; and, <hi>Whereas</hi> the <hi>Publick</hi> Works of Piety and Charity done in <hi>England</hi> ſince that bleſſed Period, tho' great and numerous, lie ſcat<g ref="char:EOLhyphen"/>ter'd and diſpers'd in <hi>Private</hi> Memorials, and have not yet been collected together into one View, for the Knowledge and Satisfaction of the World; and, <hi>Whereas</hi> the repreſenting them in due Method and Order will very much conduce to the Glory of Almighty God, the Propagation of Chriſtianity, the Honour of this Church and Nation, the Vindication of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, the doing Juſtice to the Memories of paſt Benefactors, and raiſing up more ſhining Examples in future Generations: To anſwer theſe and ſome other laudable Deſigns, This Work is undertaken, (on a juſt proſpect of En<g ref="char:EOLhyphen"/>curagement and Aſſiſtance from Perſons of Character in Church and State) and ſome progreſs already made in it by the Reverend Mr. <hi>Philip Stubs,</hi> Rector of St. <hi>Alphage, London;</hi> who hereby humbly deſires all others, of what Quality ſoever, who are Able and Willing to promote ſo <hi>uſeful</hi> a De<g ref="char:EOLhyphen"/>ſign, to communicate to him all <hi>proper</hi> Informations that may fall under the Heads hereafter ſpecify'd,</p>
+            <list>
+               <head>I. <hi>Piety.</hi>
+               </head>
+               <item>I. <hi>Churches</hi> and <hi>Chappels,</hi> and therein,
+<list>
+                     <item>1 The <hi>Fabrick,</hi> under which is to be conſider'd,
+<list>
+                           <item>1 Building,</item>
+                           <item>2 Maintenance of Repairs,</item>
+                           <item>3 Ornaments.</item>
+                        </list>
+                     </item>
+                     <item>2 The <hi>Divine Service</hi> perform'd there, as
+<list>
+                           <item>1 Prayers,</item>
+                           <item>2 Monthly Sacraments,</item>
+                           <item>3 Stated Lectures,</item>
+                           <item>4 Catechetic Courſes,</item>
+                           <item>5 Occaſional Sermons.</item>
+                        </list>
+                     </item>
+                     <item>3 Their <hi>Endowments,</hi> ſuch are
+<list>
+                           <item>1 Donations of Glebe,</item>
+                           <item>2 Erection and improvement of Manſe,</item>
+                           <item>3 Reſtoration of Tythe,</item>
+                           <item>4 Stipends of Augmentation.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>II. <hi>Clergy,</hi> as
+<list>
+                     <item>1 Their Perſons,</item>
+                     <item>2 Their Families.</item>
+                  </list>
+               </item>
+               <item>III. <hi>Propagation of the Goſpel in Foreign Parts,</hi> with what has been done, in
+<list>
+                     <item>1 <hi>Plantations,</hi> by
+<list>
+                           <item>1 Sending Miſſionaries,</item>
+                           <item>2 Building Churches and Endowing them,</item>
+                           <item>3 Erecting Schools and Li<g ref="char:EOLhyphen"/>braries.</item>
+                        </list>
+                     </item>
+                     <item>2 <hi>Factories.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>IV. Other <hi>Ways</hi> and <hi>Means</hi> taken for the propagation of Chri<g ref="char:EOLhyphen"/>ſtian Knowledge and Pra<g ref="char:EOLhyphen"/>ctice at Home, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <list>
+               <head>II. <hi>Learning.</hi> With a particular regard to</head>
+               <item>I. <hi>Charity Schools</hi> for Children.</item>
+               <item>II. <hi>Grammar Schools</hi> for Youth.</item>
+               <item>III. <hi>
+                     <g ref="char:V">Ʋ</g>niverſities</hi> for Men; in theſe
+<list>
+                     <item>1 Publick Libraries,</item>
+                     <item>2 Profeſſorſhips,</item>
+                     <item>3 Lectures,</item>
+                     <item>4 Schools and Theatre,</item>
+                     <item>5 Colleges and Halls, in them
+<list>
+                           <item>1 Their Foundational Endow<g ref="char:EOLhyphen"/>ments,</item>
+                           <item>2 Additional Benefactions;</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>IV. <hi>Colleges;</hi> In other parts of <hi>England.</hi>
+               </item>
+               <item>V. <hi>Libraries;</hi> In other parts of <hi>England.</hi>
+               </item>
+               <item>VI. <hi>Publick Lectures;</hi> In other parts of <hi>England.</hi>
+               </item>
+               <item>VII. <hi>Honorary Stipends;</hi> In other parts of <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>III. <hi>Charity.</hi>
+               </head>
+               <item>I. <hi>Hoſpitals</hi>
+                  <list>
+                     <item>1 For Children,</item>
+                     <item>2 Impotent Aged perſons,</item>
+                     <item>3 Widows,</item>
+                     <item>4 Lunaticks,</item>
+                     <item>5 Sick and Wounded,</item>
+                     <item>6 Seamen,</item>
+                     <item>7 Soldiers.</item>
+                  </list>
+               </item>
+               <item>II. <hi>Work-Houſes</hi>
+                  <list>
+                     <item>1 For poor Children at large,</item>
+                     <item>2 Parochial Children,</item>
+                     <item>3 Vagrants and Lewd people.</item>
+                  </list>
+               </item>
+               <item>III. <hi>Gifts</hi> and <hi>Legacies, &amp;c.</hi> to Ci<g ref="char:EOLhyphen"/>ties, Corporations, Towns and Pariſhes, for
+<list>
+                     <item>1 Cloathing poor people,</item>
+                     <item>2 Apprenticing Children,</item>
+                     <item>3 Diſpoſing young Maidens in Marriage,</item>
+                     <item>4 Setting up young Tradeſmen,</item>
+                     <item>5 Support of decay'd Houſe-Keepers, Widows, or Orphans,</item>
+                     <item>6 Relief or Redemption of Pri<g ref="char:EOLhyphen"/>ſoners and Captives,</item>
+                     <item>7 Aid of poor Pariſhioners from payments of Subſidies, ſetting out Soldiers, and other Taxes,</item>
+                     <item>8 Entertainment of Pilgrims and Strangers,</item>
+                     <item>9 Repair of Bridges, <hi>&amp;c.</hi> and ſetting up Mercuries in High<g ref="char:EOLhyphen"/>ways, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>To which will be added, under each general Head, ſome <hi>Propoſals</hi> relating to Charities, and Acts of Bene<g ref="char:EOLhyphen"/>ficence yet <hi>wanting</hi> among us, ſuch are, Retirements for ſuperanuuate or crazed <hi>Clergymen;</hi> Lending <hi>Libra<g ref="char:EOLhyphen"/>ries</hi> in Market-Towns; Encouragements for <hi>New Converts</hi> from Error or Debauchery; proviſion for <hi>Incura<g ref="char:EOLhyphen"/>bles,</hi> penitent <hi>Strumpets,</hi> baſhful Poor, <hi>&amp;c.</hi> by Combinations or <hi>Societies,</hi> Banks of <hi>Loan, Diſpenſaries,</hi> with other <hi>Ways</hi> and <hi>Means.</hi>
+            </p>
+            <pb facs="tcp:192055:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
